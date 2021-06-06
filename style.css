@@ -1,0 +1,253 @@
+*{
+    border: none !important;
+    
+}
+
+header section img{
+
+    
+    margin-left: 35rem !important;
+    transition: 1s;
+}
+header section span{
+
+    padding: 0.3rem 1rem;
+    border-radius: 1rem;
+    font-size: 1.3rem;
+    transition: 1s;
+}
+header section{
+    text-align: center;
+}
+header section h2{
+    font-size: 1rem;
+}
+
+section article{
+    text-align: center;
+    
+}
+#article-1{
+    margin-left: 2rem;
+    width: 36rem;
+    height: 20rem;
+    background-image: url(esmeril.png);
+    background-size: 30rem;
+    background-color: rgba(0, 0, 0, 0.74);
+    background-blend-mode: soft-light;
+   
+    border-radius: 1rem;
+    transition: 1s;
+}
+#article-2{
+
+    margin-left: 1rem;
+    width: 36rem;
+    height: 20rem;
+    background-image: url(respiradormecratonico.jpeg);
+    background-size: 36rem;
+    background-color: rgba(0, 0, 0, 0.74);
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    background-position-y: -4rem;
+    
+    border-radius: 1rem;
+    transition: 1s;
+
+}
+header section img:hover{
+    width: 12rem !important;
+    margin-left: 34rem !important;
+    transition: 1s;
+}
+header section span:hover{
+
+    background:transparent !important;
+    font-size: 1.4rem;
+    transition: 1s;
+
+}
+#article-1:hover{
+    
+    width: 34rem;
+    height: 18rem;
+    margin-left: 4rem;
+    background-size: 26rem;
+    background-position-x: 1.5rem;
+    background-color: transparent !important;
+    color: transparent !important;
+    transition: 1s;
+    
+}
+#article-1:hover #p-1{
+    color: transparent !important;
+    margin-left: 10.5rem !important;
+    transition: 1s;
+}
+#article-2:hover{
+    
+    width: 30rem;
+    height: 18rem;
+    margin-left: 4rem;
+    background-size: 30rem;
+    background-color: transparent !important;
+    color: transparent !important;
+    transition: 1s;
+    
+}
+#article-2:hover #p-2{
+
+    color: transparent !important;
+    margin-left: 10.5rem !important;
+    transition: 1s;
+
+}
+#section-2{
+    margin-top: 4rem;
+}
+#article-3{
+
+    margin-left: 2rem;
+    width: 36rem;
+    height: 20rem;
+    background-image: url(arduino.png);
+    background-size: 30rem;
+    background-color: rgba(0, 0, 0, 0.74);
+    background-blend-mode: soft-light;
+    border-radius: 1rem;
+    transition: 1s;
+}
+#article-4{
+
+    margin-left: 1rem;
+    width: 36rem;
+    height: 20rem;
+    background-image: url(fondoinge3.jpg);
+    background-size: 47rem;
+    background-color: rgba(0, 0, 0, 0.74);
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    
+    border-radius: 1rem;
+    transition: 1s;
+
+}
+#article-3:hover{
+    
+    width: 34rem;
+    height: 18rem;
+    margin-left: 4rem;
+    background-size: 26rem;
+    background-position-x: 1.5rem;
+    background-color: transparent !important;
+    color: transparent !important;
+    transition: 1s;
+    
+}
+#article-3:hover #p-3{
+    color: transparent !important;
+    margin-left: 10.5rem !important;
+    transition: 1s;
+}
+#article-4:hover{
+    
+    width: 30rem;
+    height: 18rem;
+    margin-left: 4rem;
+    background-size: 39rem;
+    
+    background-color: transparent !important;
+    color: transparent !important;
+    transition: 1s;
+    
+}
+#article-4:hover #p-4{
+    color: transparent !important;
+    margin-left: 10.5rem !important;
+    transition: 1s;
+}
+footer p{
+
+    margin-top: 3rem;
+    font-size: 1rem;
+    font-weight: lighter;
+    text-align: right;
+}
+.icons{
+    margin-top: 2.5rem;
+    margin-right: 1rem;
+    font-size: 2rem;
+    transition: 1s;
+}
+#section-3{
+
+    background-image: url(fondo.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: soft-light;
+    background-size: 130rem;
+}
+.icons:hover{
+
+    margin-top: 2.1rem;
+    font-size:2.5rem ;
+    transition: 1s;
+    margin-right: 1.5rem;
+
+}
+#article-5{
+
+    margin-left: 2rem;
+    width: 36rem;
+    height: 20rem;
+    background-image: url(fondoinge.jpg);
+    background-size: 30rem;
+    background-color: rgba(0, 0, 0, 0.74);
+    background-blend-mode: soft-light;
+    border-radius: 1rem;
+    transition: 1s;
+}
+#article-5:hover{
+    
+    width: 34rem;
+    height: 18rem;
+    margin-left: 4rem;
+    background-size: 26rem;
+    background-position-x: 1.5rem;
+    background-color: transparent !important;
+    color: transparent !important;
+    transition: 1s;
+    
+}
+#article-6{
+
+    margin-left: 1rem;
+    width: 36rem;
+    height: 20rem;
+    background-image: url(fondoinge2.jpg);
+    background-size: 36rem;
+    background-color: rgba(0, 0, 0, 0.74);
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+    background-position-y: -4rem;
+    
+    border-radius: 1rem;
+    transition: 1s;
+
+}
+#article-6:hover{
+    
+    width: 30rem;
+    height: 18rem;
+    margin-left: 4rem;
+    background-size: 30rem;
+    
+    background-color: transparent !important;
+    color: transparent !important;
+    transition: 1s;
+    
+}
+#article-6:hover #p-6{
+    color: transparent !important;
+    margin-left: 10.5rem !important;
+    transition: 1s;
+}
